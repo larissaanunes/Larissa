@@ -1,0 +1,24 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    color: black;
+    padding: 20px;
+
+}
+
+body {
+    background: color #0b1f3f;;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.container {
+    background-color: #fff;
+    width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
